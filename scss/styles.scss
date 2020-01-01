@@ -1,0 +1,10 @@
+$bgcolor: rgba(242, 81, 7, 0.961);
+$fontcol: white;
+
+body {
+    background-color:$bgcolor;
+    height: 400vh;
+}
+h1, h2{
+    color: $fontcol;
+}
